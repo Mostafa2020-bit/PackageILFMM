@@ -1,0 +1,14 @@
+Package: ILFMM
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Mostafa Zahed
+Maintainer: The package maintainer <mostafa.zahed@outlook.com>
+Description: More about what it does (
+Implements an intensive longitudinal functional model with multiple time scales 
+ with scalar outcome, multiple functional predictors, one or more scalar covariates and subject-specific random intercepts through mixed model equivalence.
+)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
